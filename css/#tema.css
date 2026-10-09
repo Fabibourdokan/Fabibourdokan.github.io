@@ -1,0 +1,10 @@
+*{
+    border-block-color: #454545;
+}
+
+h1 {
+    color: darkred;
+}
+h1:hover{
+    color: blueviolet;
+}
